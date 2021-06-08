@@ -2,7 +2,6 @@ package com.GongWenhui.dao;
 
 import com.GongWenhui.model.Product;
 
-import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
